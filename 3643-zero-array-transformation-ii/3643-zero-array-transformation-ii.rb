@@ -2,7 +2,6 @@
 # @param {Integer[][]} queries
 # @return {Integer}
 def line_sweep(nums,nu,queries,mid)
-
 i  = 0 
 while i <= mid
     nu[queries[i][0]] -= queries[i][2]
