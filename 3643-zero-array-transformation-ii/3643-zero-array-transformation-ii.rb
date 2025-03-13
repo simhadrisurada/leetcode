@@ -1,7 +1,7 @@
 # @param {Integer[]} nums
 # @param {Integer[][]} queries
 # @return {Integer}
-def check(nums,nu,queries,mid)
+def line_sweep(nums,nu,queries,mid)
 
 i  = 0 
 while i <= mid
@@ -26,7 +26,7 @@ low = 0
 high = queries.length - 1
 while low <= high
 mid = (low+high)/2
-n = check(nums,[0]*(nums.length+1),queries,mid)
+n = line_sweep(nums,[0]*(nums.length+1),queries,mid)
     if n == 0
     high = mid-1
     else
