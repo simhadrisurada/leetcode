@@ -42,7 +42,6 @@ supply = Hash.new
     
 end
 check1(ingredients,supply)
-
 nu = []
 j = 0
 i = 0
