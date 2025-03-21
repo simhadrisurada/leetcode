@@ -16,14 +16,7 @@ def check1(ingredients,supply)
     i+=1
     end
 end
-def check2()
-
-
-
-
-end
 def find_all_recipes(recipes, ingredients, supplies)
-
 i = 0
 recipe = Hash.new
 supply = Hash.new
