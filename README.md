@@ -91,13 +91,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
