@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [0907-koko-eating-bananas](https://github.com/Devil999000e/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -102,16 +103,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -126,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
