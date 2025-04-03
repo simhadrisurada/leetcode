@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Devil999000e/leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devil999000e/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devil999000e/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Devil999000e/leetcode/tree/master/0402-remove-k-digits) |
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
@@ -181,5 +183,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
