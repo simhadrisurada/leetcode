@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devil999000e/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -149,11 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Devil999000e/leetcode/tree/master/0112-path-sum) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
 |  |
 | ------- |
