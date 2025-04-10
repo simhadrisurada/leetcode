@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1646-kth-missing-positive-number](https://github.com/Devil999000e/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devil999000e/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Devil999000e/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1646-kth-missing-positive-number](https://github.com/Devil999000e/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Devil999000e/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
