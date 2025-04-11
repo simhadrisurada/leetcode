@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Devil999000e/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devil999000e/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Devil999000e/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/Devil999000e/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Stack
 |  |
