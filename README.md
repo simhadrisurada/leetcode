@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Devil999000e/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/Devil999000e/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Graph
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
+| [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
