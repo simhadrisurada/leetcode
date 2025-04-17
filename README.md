@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devil999000e/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Devil999000e/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Devil999000e/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Devil999000e/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Devil999000e/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Depth-First Search
 |  |
 | ------- |
