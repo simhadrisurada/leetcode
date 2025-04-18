@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devil999000e/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2470-removing-stars-from-a-string](https://github.com/Devil999000e/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3451-string-compression-iii](https://github.com/Devil999000e/leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
 | ------- |
