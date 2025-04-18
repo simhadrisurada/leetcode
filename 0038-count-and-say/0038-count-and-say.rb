@@ -19,13 +19,20 @@ nu.push(count)
 nu.push(s[i-1])
 return nu.join
 end
-def count_and_say(n)
+$u = 0
+$answer = []
+def arrange(n)
 i = 1
 nu = "1"
+$answer.push(nu)
 while i <= n-1
 nu = check(nu)
+$answer.push(nu)
 i+=1
 end
-return nu
-
+$u = 1
+end
+def count_and_say(n)
+arrange(30) if $u == 0
+return $answer[n-1]
 end
