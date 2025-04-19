@@ -2,6 +2,7 @@
 # @param {Integer} lower
 # @param {Integer} upper
 # @return {Integer}
+######################## binary search for finding current element to elemenate in the sorted array !######################
 def bin_1(arr,target)
 low = 0
 high = arr.length - 1
@@ -16,6 +17,8 @@ high = arr.length - 1
     end
 return -1
 end
+#############################################################################################################################
+#################### to find the left range for the current element in the sorted array #####################################
 def bin_2(arr,target)
 low = 0
 high = arr.length - 1
@@ -29,6 +32,8 @@ high = arr.length - 1
     end
 return high,low
 end
+#############################################################################################################################
+#################### to find the right range for the current element in the sorted array #####################################
 def bin_3(arr,target)
 low = 0
 high = arr.length - 1
@@ -42,7 +47,7 @@ high = arr.length - 1
     end
 return high,low
 end
-
+#############################################################################################################################
 
 def count_fair_pairs(nums, lower, upper)
 arr = nums.sort
@@ -52,11 +57,8 @@ while i < nums.length - 1
 ind = bin_1(arr,nums[i])
 k = nums[i]
 arr.delete_at(ind)
-nu1,nu2 = bin_2(arr,lower - k),bin_3(arr,upper - k)
-
-#count += bin_2(arr,lower - k) - bin_3(arr,upper - k)
-count += (nu2[0]-nu1[1]) + 1
+count +=  bin_2(arr,lower - k)[0] - bin_3(arr,upper - k)[1] + 1
 i+=1
 end 
-return count
+return count*-1
 end
