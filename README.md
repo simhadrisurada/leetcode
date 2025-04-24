@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devil999000e/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devil999000e/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Devil999000e/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devil999000e/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
