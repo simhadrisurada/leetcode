@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devil999000e/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/Devil999000e/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Devil999000e/leetcode/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Devil999000e/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/Devil999000e/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Devil999000e/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devil999000e/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Devil999000e/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Devil999000e/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Devil999000e/leetcode/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -289,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
