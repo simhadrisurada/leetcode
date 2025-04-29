@@ -1,29 +1,16 @@
 # @param {Integer} n
 # @return {String[]}
 $ans = []
-def valid(s)
-stack = []
-i = 0
-while i < s.length
-if stack.length == 0 ||s[i] == "(" 
-stack.push(s[i])
-else
-stack.pop() if s[i] == ")" && stack.last == "("
-end
-i+=1
-end
-return stack.length == 0
-end
-def check(target,s,pre)
+def check(target,s,pre,op,cl)
 if pre == target
-$ans.push(s) if valid(s) == true
+$ans.push(s) 
 return 
 end
-check(target,s+"(",pre+1)
-check(target,s+")",pre+1)
+check(target,s+"(",pre+1,op+1,cl) if op < target/2
+check(target,s+")",pre+1,op,cl+1) if op-cl != 0
 end
 def generate_parenthesis(n)
-   check(n*2,"",0)
+   check(n*2,"",0,0,0)
    nu = $ans
    $ans =[]
 return nu
