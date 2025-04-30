@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Devil999000e/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/Devil999000e/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Devil999000e/leetcode/tree/master/1656-count-good-triplets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Devil999000e/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Devil999000e/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Devil999000e/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Devil999000e/leetcode/tree/master/1500-count-largest-group) |
 | [1761-count-sorted-vowel-strings](https://github.com/Devil999000e/leetcode/tree/master/1761-count-sorted-vowel-strings) |
