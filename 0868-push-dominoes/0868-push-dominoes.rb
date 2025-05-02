@@ -18,24 +18,19 @@ end
 i-=1
 end
 nu2 = [0]*nu.length
-i = 0
-while i < nu1.length
+i = nu1.length - 1
+while i >= 0
 if nu1[i] == "L" && nu[i] == "R"
 nu2[i] = 1
+nu2[i]+=nu2[i+1]
 elsif nu1[i] == "L" && nu[i] == "."
 dominoes[i] = "L"
 elsif nu1[i] == "." && nu[i] == "R"
 dominoes[i] = "R"
 end
-i+=1
-end
-i = nu2.length - 2
-while i >= 0
-if nu2[i] == 1 
-nu2[i]+=nu2[i+1]
-end
 i-=1
 end
+
 i = 0
 while i < nu2.length - 1
     if nu2[i] == 0 && nu2[i+1] != 0 && nu2[i+1]%2 == 1
