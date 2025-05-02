@@ -30,7 +30,6 @@ end
 i+=1
 end
 i = nu2.length - 2
-puts nu2.join
 while i >= 0
 if nu2[i] == 1 
 nu2[i]+=nu2[i+1]
@@ -38,7 +37,6 @@ end
 i-=1
 end
 i = 0
-puts nu2.join
 while i < nu2.length - 1
     if nu2[i] == 0 && nu2[i+1] != 0 && nu2[i+1]%2 == 1
         n  = 0+nu2[i+1]
@@ -47,11 +45,11 @@ while i < nu2.length - 1
         i+=1
         while j <= n*-1
             if j < 0
-                nu2[i] = 2
+                dominoes[i] = "R"
             elsif j > 0
-                nu2[i] = 5
+                dominoes[i] = "L"
             else
-                nu2[i] = 3
+                dominoes[i] = "."
             end
         i+=1
         j+=1
@@ -62,9 +60,10 @@ while i < nu2.length - 1
         i+=1
         while j <= n
             if j <= n/2
-                nu2[i] = 2
+                dominoes[i] = "R"
             else
-                nu2[i] = 5
+                dominoes[i] = "L"
+
             end
         j+=1
         i+=1
@@ -73,18 +72,7 @@ while i < nu2.length - 1
         end
     i+=1
 end
-i = 0
-puts nu2.join
-while i < nu2.length
-if nu2[i] == 2
-dominoes[i] = "R"
-elsif nu2[i] == 3
-dominoes[i] = "."
-elsif nu2[i] == 5
-dominoes[i] = "L"
-end
-i+=1
-end
+
 
 
 
