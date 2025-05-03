@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devil999000e/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Devil999000e/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devil999000e/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Devil999000e/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devil999000e/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
