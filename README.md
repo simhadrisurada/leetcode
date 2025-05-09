@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Devil999000e/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Devil999000e/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Devil999000e/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Devil999000e/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Devil999000e/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Devil999000e/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Devil999000e/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Devil999000e/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Devil999000e/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devil999000e/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
