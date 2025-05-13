@@ -1,6 +1,34 @@
 class Solution {
 public:
-    vector<int> findEvenNumbers(vector<int>& digits) {
+    vector<int> findEvenNumbers(vector<int>& digits1) {
+        map<int,int> mapi1;
+        for(int i =0;i < digits1.size();i++){
+         if(mapi1[digits1[i]]){
+            mapi1[digits1[i]]+=1;
+         }
+         else{
+            mapi1[digits1[i]] = 1;
+         }
+        }
+    vector<int> digits;
+    for(auto i : mapi1){
+        if(i.second >= 3){
+            digits.push_back(i.first);
+             digits.push_back(i.first);
+              digits.push_back(i.first);
+        }
+       else if(i.second == 2){
+            digits.push_back(i.first);
+             digits.push_back(i.first);
+        }
+        else{
+            digits.push_back(i.first);
+        }
+    }
+
+
+
+
         map<int,int> mapi;
         for(int i =0;i < digits.size();i++){
             for(int j = 0;j<digits.size();j++){
