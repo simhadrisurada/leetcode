@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devil999000e/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Devil999000e/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
