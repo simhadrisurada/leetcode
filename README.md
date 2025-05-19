@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Devil999000e/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Devil999000e/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devil999000e/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Devil999000e/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Devil999000e/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Devil999000e/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Devil999000e/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
