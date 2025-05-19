@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Devil999000e/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Devil999000e/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Devil999000e/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Devil999000e/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Devil999000e/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Devil999000e/leetcode/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/Devil999000e/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 ## Graph
 |  |
 | ------- |
