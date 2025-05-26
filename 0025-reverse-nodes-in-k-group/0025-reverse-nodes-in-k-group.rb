@@ -11,6 +11,7 @@
 # @return {ListNode}
 $dumm1 = nil
 $dummy2 = nil
+################function for reversing the linked list in group wise ######################
 def reverse(head,i,tar)
 if head.next == nil || tar == i
 $dummy1 = head
@@ -22,26 +23,33 @@ head.next = nil
 temp.next = head
 return head
 end
-
+##################################################
+#############  for finding the length  ##############
 def head_len(head,len)
 return len if head == nil
 return head_len(head.next,len+1)
 end
-
+######################################################
 def reverse_k_group(head, k)
+###### edge case ####################
 if k == 1 || head == nil
 return head
 end
+#####################################
+#### for the length ##########
 head_size = head_len(head,0)
+#############################
+######### for finding the answer the head ######################
     n3 = reverse(head,1,k)
     n1 = $dummy1
     $dummy1 = nil
     n2 = $dummy2
     $dummy2 = nil 
-    ans = n1
+    ans = n1#### head of answer 
+################################################################
+################# "i" is to make changes on exactly group wise  as per condition ################
     i = 1
-    puts head_size
-    while n2 != nil && i < head_size/k
+    while n2 != nil && i < head_size/k 
     last = reverse(n2,1,k)
     n1 = $dummy1
     $dummy1 = nil
@@ -51,6 +59,7 @@ head_size = head_len(head,0)
     n3 = last
     i+=1
     end
-    n3.next = n2
-    return ans
+##################################################################################################
+    n3.next = n2 #### for linking the last unconditional group ##############
+    return ans ############ yasss we got it ################ |:)|
 end
