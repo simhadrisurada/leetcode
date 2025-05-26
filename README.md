@@ -392,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devil999000e/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Devil999000e/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Devil999000e/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Devil999000e/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
 | [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 ## Simulation
