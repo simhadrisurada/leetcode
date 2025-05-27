@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2998-count-symmetric-integers](https://github.com/Devil999000e/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Devil999000e/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 ## Graph
 |  |
