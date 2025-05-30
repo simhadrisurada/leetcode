@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Devil999000e/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Devil999000e/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Devil999000e/leetcode/tree/master/0216-combination-sum-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0491-non-decreasing-subsequences](https://github.com/Devil999000e/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devil999000e/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Devil999000e/leetcode/tree/master/0383-ransom-note) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Devil999000e/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Devil999000e/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Devil999000e/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Devil999000e/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Devil999000e/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Devil999000e/leetcode/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Devil999000e/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Devil999000e/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Devil999000e/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Devil999000e/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Devil999000e/leetcode/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -440,11 +444,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devil999000e/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -457,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Devil999000e/leetcode/tree/master/0214-shortest-palindrome) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
