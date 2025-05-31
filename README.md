@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Devil999000e/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/Devil999000e/leetcode/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devil999000e/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1206-corporate-flight-bookings](https://github.com/Devil999000e/leetcode/tree/master/1206-corporate-flight-bookings) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Devil999000e/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Devil999000e/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Devil999000e/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Devil999000e/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Devil999000e/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/Devil999000e/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Devil999000e/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Devil999000e/leetcode/tree/master/1500-count-largest-group) |
@@ -457,11 +460,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Devil999000e/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Devil999000e/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devil999000e/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -484,8 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Devil999000e/leetcode/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
