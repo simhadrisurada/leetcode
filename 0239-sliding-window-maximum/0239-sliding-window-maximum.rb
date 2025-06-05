@@ -4,33 +4,33 @@
 def max_sliding_window(nums, k)
 return nums if k == 1
 i = 0 
-queue = []
+stack = []
 while i < k
-if queue.length == 0
-queue.push(nums[i])
+if stack.length == 0
+stack.push(nums[i])
 else
-while queue.length != 0 && queue[-1] < nums[i]
-queue.delete_at(-1)
+while stack.length != 0 && stack[-1] < nums[i]
+stack.delete_at(-1)
 end
-queue.push(nums[i])
+stack.push(nums[i])
 end
 i+=1
 end
 nu = []
-nu.push(queue[0])
+nu.push(stack[0])
 while i < nums.length
-if queue.length == 0
-queue.push(nums[i])
+if stack.length == 0
+stack.push(nums[i])
 else
-while queue.length != 0 && queue[-1] < nums[i]
-queue.delete_at(-1)
+while stack.length != 0 && stack[-1] < nums[i]
+stack.delete_at(-1)
 end
-queue.push(nums[i])
+stack.push(nums[i])
 end
-if nums[i-k] == queue[0]
-queue.delete_at(0)
+if nums[i-k] == stack[0]
+stack.delete_at(0)
 end
-nu.push(queue[0])
+nu.push(stack[0])
 i+=1
 end
     nu
