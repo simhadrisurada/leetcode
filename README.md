@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devil999000e/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Devil999000e/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Devil999000e/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devil999000e/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3194-find-words-containing-character](https://github.com/Devil999000e/leetcode/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/Devil999000e/leetcode/tree/master/3451-string-compression-iii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devil999000e/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
