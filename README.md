@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devil999000e/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Devil999000e/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Devil999000e/leetcode/tree/master/3430-count-days-without-meetings) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devil999000e/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Depth-First Search
 |  |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1761-count-sorted-vowel-strings](https://github.com/Devil999000e/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Devil999000e/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Stack
 |  |
 | ------- |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/Devil999000e/leetcode/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devil999000e/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 ## Combinatorics
 |  |
 | ------- |
@@ -446,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devil999000e/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devil999000e/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2998-count-symmetric-integers](https://github.com/Devil999000e/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Linked List
 |  |
