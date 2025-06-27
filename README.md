@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Devil999000e/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Devil999000e/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Devil999000e/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Devil999000e/leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Devil999000e/leetcode/tree/master/0056-merge-intervals) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devil999000e/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Devil999000e/leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Devil999000e/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Devil999000e/leetcode/tree/master/0402-remove-k-digits) |
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Devil999000e/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Devil999000e/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Devil999000e/leetcode/tree/master/0045-jump-game-ii) |
 | [0198-house-robber](https://github.com/Devil999000e/leetcode/tree/master/0198-house-robber) |
 | [0868-push-dominoes](https://github.com/Devil999000e/leetcode/tree/master/0868-push-dominoes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Devil999000e/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
