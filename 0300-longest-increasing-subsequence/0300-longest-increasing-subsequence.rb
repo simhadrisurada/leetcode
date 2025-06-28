@@ -23,4 +23,5 @@ max = now.length + 1 if max < now.length + 1
 i-=1
 end
    max 
+   #dp solution 
 end
