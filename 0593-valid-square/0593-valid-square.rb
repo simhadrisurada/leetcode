@@ -47,7 +47,7 @@ n = queue.length
         while j < 4
             queue.push(swap(nu,k,j))
             puts queue[-1].inspect
-           
+    
             j+=1
         end
     i+=1
@@ -59,5 +59,9 @@ while i < queue.length
 return true if check(queue[i]) == true 
 i+=1
 end
+# check the all possible combinations of points
+# verify every combination of points for a valid square
+# for a valid square check points in order their length and diagnol length too 
+# if they are valid kick bool(* . *)
     return false
 end
