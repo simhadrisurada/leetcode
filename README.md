@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devil999000e/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Devil999000e/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0593-valid-square](https://github.com/Devil999000e/leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Devil999000e/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Devil999000e/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/Devil999000e/leetcode/tree/master/0593-valid-square) |
 | [1014-k-closest-points-to-origin](https://github.com/Devil999000e/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
