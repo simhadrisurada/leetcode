@@ -1,6 +1,6 @@
 class Solution {
 public:
-int bin(vector<int> arr,int target){
+int bin(vector<int>& arr,int target){
     int low = 0,high = arr.size() - 1;
     while(low <= high){
         int mid = (low + high)/2;
@@ -29,7 +29,6 @@ return low ;
             ans.push_back(n);
             arr.erase(arr.begin() + n);
         }
-
         return ans;
     }
 };
