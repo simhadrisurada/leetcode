@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/Devil999000e/leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Devil999000e/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devil999000e/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Devil999000e/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Devil999000e/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Devil999000e/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devil999000e/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Devil999000e/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Devil999000e/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Devil999000e/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Devil999000e/leetcode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/Devil999000e/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Devil999000e/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
