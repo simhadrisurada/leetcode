@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Devil999000e/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3194-find-words-containing-character](https://github.com/Devil999000e/leetcode/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Devil999000e/leetcode/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/Devil999000e/leetcode/tree/master/3451-string-compression-iii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Devil999000e/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
