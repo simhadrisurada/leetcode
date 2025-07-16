@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Devil999000e/leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Devil999000e/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Devil999000e/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Devil999000e/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/Devil999000e/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Devil999000e/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/Devil999000e/leetcode/tree/master/1761-count-sorted-vowel-strings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Devil999000e/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Devil999000e/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Stack
 |  |
 | ------- |
