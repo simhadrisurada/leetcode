@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Devil999000e/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devil999000e/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devil999000e/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/Devil999000e/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devil999000e/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Devil999000e/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Devil999000e/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Devil999000e/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devil999000e/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Devil999000e/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Devil999000e/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devil999000e/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Devil999000e/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devil999000e/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Devil999000e/leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Devil999000e/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Devil999000e/leetcode/tree/master/0738-monotone-increasing-digits) |
