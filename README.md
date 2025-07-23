@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Devil999000e/leetcode/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/Devil999000e/leetcode/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Devil999000e/leetcode/tree/master/0868-push-dominoes) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Devil999000e/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Devil999000e/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devil999000e/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2470-removing-stars-from-a-string](https://github.com/Devil999000e/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Devil999000e/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Devil999000e/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Devil999000e/leetcode/tree/master/1448-maximum-69-number) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Devil999000e/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Devil999000e/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Devil999000e/leetcode/tree/master/2245-destroying-asteroids) |
 | [2487-optimal-partition-of-string](https://github.com/Devil999000e/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Devil999000e/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Devil999000e/leetcode/tree/master/0739-daily-temperatures) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Devil999000e/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Devil999000e/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Devil999000e/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
