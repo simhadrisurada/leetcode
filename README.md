@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Devil999000e/leetcode/tree/master/0038-count-and-say) |
 | [0187-repeated-dna-sequences](https://github.com/Devil999000e/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Devil999000e/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Devil999000e/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Devil999000e/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Devil999000e/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Devil999000e/leetcode/tree/master/0389-find-the-difference) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devil999000e/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Devil999000e/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/Devil999000e/leetcode/tree/master/0224-basic-calculator) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Devil999000e/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0593-valid-square](https://github.com/Devil999000e/leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Devil999000e/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Devil999000e/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devil999000e/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Devil999000e/leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Devil999000e/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Devil999000e/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devil999000e/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Devil999000e/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Devil999000e/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Devil999000e/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Devil999000e/leetcode/tree/master/0224-basic-calculator) |
 | [2050-count-good-numbers](https://github.com/Devil999000e/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devil999000e/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
