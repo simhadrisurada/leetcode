@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Devil999000e/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Devil999000e/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Devil999000e/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Devil999000e/leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devil999000e/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Devil999000e/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Devil999000e/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Devil999000e/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Devil999000e/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Devil999000e/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2754-maximum-strength-of-a-group](https://github.com/Devil999000e/leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Devil999000e/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devil999000e/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -652,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Devil999000e/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Devil999000e/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
