@@ -3,8 +3,7 @@ public:
     int bin(vector<long long>& arr, vector<int>& orr,long long lim,long long  hp, int i){
         int low = 0,high = i;
         while(low <= high){
-            int mid = low + high;
-            mid =  mid/2;
+            int mid = (low + high)/2;
             long long subArrSum = arr[i] - arr[mid] + orr[mid];
             if(hp - subArrSum >= lim){
                 high = mid - 1;
@@ -22,11 +21,9 @@ public:
         for(int i =1;i < damage.size();i++){
             arr.push_back(damage[i]+arr[i-1]);
         }
-
-        vector<int>& d = damage;
-        for(int i =0;i < d.size();i++){
+        for(int i =0;i < damage.size();i++){
       int now = bin(arr,damage,requirement[i],hp,i);
-     //     int now = 0;
+  
           ans += (i - now + 1);
         }
         return ans; 
