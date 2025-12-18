@@ -668,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Devil999000e/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Devil999000e/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
